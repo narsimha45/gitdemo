@@ -1,0 +1,11 @@
+hi
+ hello 
+this is from demo foe git 
+practice
+
+
+q
+exit
+::wq!
+
+
